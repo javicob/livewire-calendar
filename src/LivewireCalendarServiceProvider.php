@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar;
+namespace Javicob\LivewireCalendar;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

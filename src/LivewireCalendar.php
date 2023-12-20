@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar;
+namespace Javicob\LivewireCalendar;
 
 use Carbon\Carbon;
 use Exception;
@@ -11,7 +11,7 @@ use Livewire\Component;
 
 /**
  * Class LivewireCalendar
- * @package Asantibanez\LivewireCalendar
+ * @package Javicob\LivewireCalendar
  * @property Carbon $startsAt
  * @property Carbon $endsAt
  * @property Carbon $gridStartsAt
